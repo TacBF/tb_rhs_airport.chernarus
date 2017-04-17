@@ -1,0 +1,13 @@
+#define TB_loadingScreen_imagePath "tb_loadingScreen.jpg"
+//#define TB_loadingScreen_imagePath "\a3\ui_f\data\Logos\arma3_expansion_ca.paa"
+
+onLoadName="Airport";
+author="Leon (TacBF Team)";
+onLoadMission= "Towns, Airport. RU = Light vehicles, APCs, tank, jet -vs- Insurgents = light vehicles, ZUs, randomized TRPs.";
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+
+#include "tb_mountedWeapons.hpp"
+#include "tb_vehicleInit.hpp"

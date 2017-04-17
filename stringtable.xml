@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_AAS_Template_1">
+
+	<Key ID="STR_TB_missionTitle_TB_Agiamarina">
+		<Original>AAS_Template_1</Original>
+		<English>AAS_Template_1</English>
+		<German>AAS_Template_1</German>
+		<Italian>AAS_Template_1</Italian>
+		<Spanish>AAS_Template_1</Spanish>
+		<French>AAS_Template_1</French>
+		<Czech>AAS_Template_1</Czech>
+		<Russian>AAS_Template_1</Russian>
+		<Polish>AAS_Template_1</Polish>
+		<Hungarian>AAS_Template_1</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

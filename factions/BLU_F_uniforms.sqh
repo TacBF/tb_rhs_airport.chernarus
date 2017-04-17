@@ -1,0 +1,59 @@
+// RUS - Marines (EMR-Summer)
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"rhs_uniform_flora", {__ICE_gear_allRoles}},
+		
+	// Sniper
+	{"U_O_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_O_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	{"U_O_FullGhillie_sard", {__ICE_gear_Sniper}},
+		
+	// Pilot
+	{"rhs_uniform_df15", {__ICE_gear_Pilot}},
+	
+	// Diver
+	{"rhs_uniform_vdv_flora", {__ICE_gear_Diver}},
+
+// VESTS
+	
+	// Infantry
+	{"rhs_6b23", {__ICE_gear_allRoles}},
+	{"rhs_6b23_6sh92", {__ICE_gear_infantryRoles}},
+	{"rhs_6b23_rifleman", {__ICE_gear_Rifleman}},
+	{"rhs_6b23_medic", {__ICE_gear_Medic}},
+	{"rhs_6b23_6sh92_vog", {__ICE_gear_Grenadier}},
+	{"rhs_6b23_engineer", {__ICE_gear_CombatEngineer}},
+	{"rhs_6b23_6sh92_radio", {__ICE_gear_SL}},
+	{"rhs_6b23_sniper", {__ICE_gear_Sniper}},
+	{"rhs_6b23_crewofficer", {__ICE_gear_Crewman}},
+		
+	// Pilot
+	{"rhs_vydra_3m", {__ICE_gear_Pilot}},
+	
+	// Diver
+	{"V_RebreatherIR", {__ICE_gear_Inf}},
+
+// HELMETS
+	
+	// Infantry
+	{"rhs_ssh68", {__ICE_gear_allRoles}},
+	{"rhs_fieldcap", {__ICE_gear_allRoles}},
+	{"rhs_beanie_green", {__ICE_gear_allRoles}},
+	{"H_Bandanna_khk", {__ICE_gear_allRoles}},
+		
+	// Crewman
+	{"rhs_tsh4", {__ICE_gear_Crewman}},
+		
+	// Pilot
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}},
+	
+// GLASSES
+	
+	{"rhs_balaclava", {__ICE_gear_allRoles}}
+	//{"rhs_scarf", {__ICE_gear_allRoles}}
+};
